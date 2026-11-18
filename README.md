@@ -1,10 +1,10 @@
-# 🚗 TallerApp - Gestión Integral de Talleres Mecánicos
+# TallerApp - Gestión Integral de Talleres Mecánicos
 
 > Solución móvil y web multiplataforma, offline-first, diseñada para optimizar y digitalizar el flujo operativo, control de vehículos y órdenes de servicio en talleres automotrices independientes y centros de mantenimiento.
 
 ---
 
-## 📌 Problema que Resuelve
+## Problema que Resuelve
 
 La administración en talleres mecánicos independientes suele basarse en notas en papel, boletas físicas o planillas de cálculo desconectadas. Este esquema genera problemáticas recurrentes:
 
@@ -17,47 +17,47 @@ La administración en talleres mecánicos independientes suele basarse en notas 
 
 ---
 
-## ✨ Funcionalidades Principales
+## Funcionalidades Principales
 
-### 📊 Tablero de Control (Dashboard)
+###  Tablero de Control (Dashboard)
 - Indicadores en tiempo real de vehículos actualmente en bahía y órdenes abiertas.
 - Lista dinámica de vehículos activos con estado visual.
 - Acceso rápido a los últimos servicios realizados y atajo directo para recepción de unidades.
 
-### 🚙 Gestión de Vehículos y Ficha Histórica
+### Gestión de Vehículos y Ficha Histórica
 - Registro detallado de flota: placa, marca, modelo, año, color, kilometraje y número de serie (VIN/chasis).
 - Ficha clínica por vehículo con historial completo de servicios y trazabilidad de mantenimientos.
 - Búsqueda y filtrado dinámico por placa o información vehicular.
 
-### 🛠️ Control de Órdenes de Servicio
+###  Control de Órdenes de Servicio
 - Ciclo de vida completo por estados: `Recibido`, `En Proceso`, `Listo` y `Entregado`.
 - Asignación de mecánico o técnico responsable por trabajo.
 - Detalle del diagnóstico inicial, trabajo realizado y desglose de repuestos.
 - Manejo de presupuesto proyectado vs. costo total final.
 
-### 👥 Directorio de Clientes
+### Directorio de Clientes
 - Registro y edición de clientes (nombre, teléfono, correo, dirección y notas).
 - Vinculación directa cliente-vehículo(s).
 - Acciones rápidas de contacto: llamada telefónica, mensajería WhatsApp y correo electrónico con un solo toque.
 
-### 📥 Recepción Rápida de Vehículos
+### Recepción Rápida de Vehículos
 - Modal de ingreso ágil que permite registrar o asociar al cliente, ingresar el vehículo y crear la orden de servicio inicial en un único flujo de trabajo continuo.
 
-### ☁️ Respaldo y Restauración en la Nube
+### Respaldo y Restauración en la Nube
 - Exportación estructurada (JSON) de toda la base de datos local.
 - Integración con **Google Sign-In** y **Google Drive API** para almacenar copias de seguridad de forma segura en la nube personal del usuario y restaurarlas cuando sea necesario.
 
-### ⚙️ Configuración y Multi-técnico
+### Configuración y Multi-técnico
 - Personalización de los datos del taller (nombre comercial, NIT/RUT, teléfono, correo, dirección).
 - Catálogo de mecánicos activos en el establecimiento.
 
-### 🌓 Interfaz Ergonómica y Soporte Multiplataforma
+### Interfaz Ergonómica y Soporte Multiplataforma
 - Soporte nativo para modo oscuro (*Dark Mode*) y claro (*Light Mode*), optimizado para visibilidad en ambientes de taller.
 - Interfaz reactiva adaptable a dispositivos móviles (Android / iOS) y navegadores web.
 
 ---
 
-## 🛠️ Tecnologías Usadas
+## Tecnologías Usadas
 
 | Categoría | Tecnologías / Librerías |
 | :--- | :--- |
@@ -74,7 +74,7 @@ La administración en talleres mecánicos independientes suele basarse en notas 
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 TallerApp/
@@ -107,7 +107,7 @@ TallerApp/
 
 ---
 
-## 🚀 Instalación y Puesta en Marcha
+## Instalación y Puesta en Marcha
 
 ### Prerrequisitos
 - [Node.js](https://nodejs.org/) (versión 20+ o superior recomendada).
@@ -149,6 +149,6 @@ TallerApp/
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso privado y confidencial para la gestión de talleres automotrices.
